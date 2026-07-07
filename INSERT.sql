@@ -55,7 +55,7 @@ VALUES
 	(5, 'We Will Rock You', 209),
 	(5, 'Dont Stop Me Now', 209),
 	(5, 'Bohemian Rhapsody', 354),
-	(5, 'We Are The Champions', 180),
+	(5, 'We are the champions my friend', 180),
 	(6, 'Не надо так мой друг', 187),
 	(7, 'Вояджер-1', 218),
 	(7, 'Сельма Лагерлёф', 195),
@@ -80,8 +80,8 @@ INSERT INTO compilations(title, release_year)
 VALUES 
 	('Лучший сборник', 2026), 
 	('Рок сборник', 2018), 
-	('Русский рок', 2010), 
-	('Старые треки', 2024);	
+	('Русский рок', 2019), 
+	('Старые треки', 2020);	
 
 
 --Связи
