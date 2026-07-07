@@ -19,7 +19,7 @@ WHERE nickname NOT LIKE '% %';
 
 --Название треков, которые содержат слово «мой» или «my».
 SELECT title FROM tracks
-WHERE title LIKE '%мой%' OR title LIKE '%my%'';
+WHERE title LIKE '%мой%' OR title LIKE '%my%';
 
 
 --2
